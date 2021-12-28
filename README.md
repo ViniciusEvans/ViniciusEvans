@@ -22,4 +22,7 @@ Looking for a good programmer? contact me
 <br/>
 <br/>
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusEvans&show_icons=true&theme=radical)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusEvans&layout=compact)](https://github.com/ViniciusEvans/github-readme-stats)
+
 
