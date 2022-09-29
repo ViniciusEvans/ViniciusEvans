@@ -12,6 +12,10 @@ And these are my current technologies 👇
     <img align="center" alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="Node.Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" alt="PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+    <img align="center" alt="Material-UI" src="https://img.shields.io/badge/Material--UI-316192?style=for-the-badge&logo=material-ui&logoColor=white" />
+    <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=Redux&logoColor=white" />
+    <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-3233302?style=for-the-badge&logo=jest&logoColor=white" />
 </div>
 <br/>
 <div >
