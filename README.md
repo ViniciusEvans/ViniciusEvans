@@ -14,6 +14,10 @@ And these are my current technologies 👇
     <img align="center" alt="PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 <br/>
+<div >
+  <a href="https://github.com/ViniciusEvans">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusEvans&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 Looking for a good programmer? contact me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-evangelista-605052194/)
