@@ -1,6 +1,6 @@
 ### Hi, i'm Vinicius Evangelista, nice to meet you! <img width="50rem" height="50rem" margin="auto" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" />
 
-I'm a full stack web developer in training at Cubos academy.
+I'm a full stack web developer.
 
 And these are my current technologies 👇
 
