@@ -16,6 +16,9 @@ And these are my current technologies 👇
     <img align="center" alt="Material-UI" src="https://img.shields.io/badge/Material--UI-316192?style=for-the-badge&logo=material-ui&logoColor=white" />
     <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=Redux&logoColor=white" />
     <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-3233302?style=for-the-badge&logo=jest&logoColor=white" />
+    <img align="center" alt="Jest" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align="center" alt="Jest" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img align="center" alt="Jest" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
 <br/>
 <div >
@@ -25,6 +28,5 @@ And these are my current technologies 👇
 Looking for a good programmer? contact me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-evans/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ViniciusEvans)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5521998046496)
 
